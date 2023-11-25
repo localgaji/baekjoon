@@ -12,13 +12,14 @@
 ***❗️❗️꼭 문제를 순서대로 안풀어도 됩니다.❗️❗️***
 
 [백준 문제집](https://www.acmicpc.net/workbook/view/6785)
-|          순번          |        진행 상황         |        문제 번호         |        문제 이름         |         난이도          |        풀이 링크         |
-| :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
-| 00 |  ![status][ToDo]  | <a href="https://www.acmicpc.net/problem/14425" target="_blank">14425</a> | <a href="https://www.acmicpc.net/problem/14425" target="_blank">문자열 집합</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | <a href="./../solution/trie/14425">바로가기</a> |
-| 01 |  ![status][ToDo]  | <a href="https://www.acmicpc.net/problem/4358" target="_blank">4358</a> | <a href="https://www.acmicpc.net/problem/4358" target="_blank">생태학</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> |                      |
-| 02 |  ![status][ToDo]  | <a href="https://www.acmicpc.net/problem/20166" target="_blank">20166</a> | <a href="https://www.acmicpc.net/problem/20166" target="_blank">문자열 지옥에 빠진 호석</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |                      |
-| 03 |  ![status][ToDo]  | <a href="https://www.acmicpc.net/problem/5052" target="_blank">5052</a> | <a href="https://www.acmicpc.net/problem/5052" target="_blank">전화번호 목록</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> |                      |
-| 04 |  ![status][ToDo]  | <a href="https://www.acmicpc.net/problem/14725" target="_blank">14725</a> | <a href="https://www.acmicpc.net/problem/14725" target="_blank">개미굴</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> |                      |
+|           순번           |        진행 상황         |        문제 이름         |         난이도          |
+|  :-----:  | :-----: | :-----: | :-----: |
+| 1 |  ![status][ToDo]  | <a href="https://www.acmicpc.net/problem/14425" target="_blank">문자열 집합</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> |
+| 2 |  ![status][ToDo]  | <a href="https://www.acmicpc.net/problem/4358" target="_blank">생태학</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> |
+| 3 |  ![status][ToDo]  | <a href="https://www.acmicpc.net/problem/20166" target="_blank">문자열 지옥에 빠진 호석</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |
+| 4 |  ![status][ToDo]  | <a href="https://www.acmicpc.net/problem/5052" target="_blank">전화번호 목록</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> |
+| 5 |  ![status][ToDo]  | <a href="https://www.acmicpc.net/problem/14725" target="_blank">개미굴</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> |
+
 
 [TODO]: https://img.shields.io/badge/-TODO-DFFD26
 [DOING]: https://img.shields.io/badge/-DOING-31AE0F

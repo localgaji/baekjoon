@@ -12,14 +12,15 @@
 ***❗️❗️꼭 문제를 순서대로 안풀어도 됩니다.❗️❗️***
 
 [백준 문제집](https://www.acmicpc.net/workbook/view/6784)
-|          순번          |        진행 상황         |        문제 번호         |        문제 이름         |         난이도          |        풀이 링크         |
-| :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
-| 00 |  ![status][ToDo]  | <a href="https://www.acmicpc.net/problem/1717" target="_blank">1717</a> | <a href="https://www.acmicpc.net/problem/1717" target="_blank">집합의 표현</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | <a href="./../solution/disjoint_set/1717">바로가기</a> |
-| 01 |  ![status][ToDo]  | <a href="https://www.acmicpc.net/problem/1976" target="_blank">1976</a> | <a href="https://www.acmicpc.net/problem/1976" target="_blank">여행 가자</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | <a href="./../solution/disjoint_set/1976">바로가기</a> |
-| 02 |  ![status][ToDo]  | <a href="https://www.acmicpc.net/problem/16562" target="_blank">16562</a> | <a href="https://www.acmicpc.net/problem/16562" target="_blank">친구비</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | <a href="./../solution/disjoint_set/16562">바로가기</a> |
-| 03 |  ![status][ToDo]  | <a href="https://www.acmicpc.net/problem/18116" target="_blank">18116</a> | <a href="https://www.acmicpc.net/problem/18116" target="_blank">로봇 조립</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | <a href="./../solution/disjoint_set/18116">바로가기</a> |
-| 04 |  ![status][ToDo]  | <a href="https://www.acmicpc.net/problem/4195" target="_blank">4195</a> | <a href="https://www.acmicpc.net/problem/4195" target="_blank">친구 네트워크</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | <a href="./../solution/disjoint_set/4195">바로가기</a> |
-| 05 |  ![status][ToDo]  | <a href="https://www.acmicpc.net/problem/10775" target="_blank">10775</a> | <a href="https://www.acmicpc.net/problem/10775" target="_blank">공항</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | <a href="./../solution/disjoint_set/10775">바로가기</a> |
+|           순번           |        진행 상황         |        문제 이름         |         난이도          |
+|  :-----:  | :-----: | :-----: | :-----: |
+| 1 |  ![status][ToDo]  | <a href="https://www.acmicpc.net/problem/1717" target="_blank">집합의 표현</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |
+| 2 |  ![status][ToDo]  | <a href="https://www.acmicpc.net/problem/1976" target="_blank">여행 가자</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> |
+| 3 |  ![status][ToDo]  | <a href="https://www.acmicpc.net/problem/16562" target="_blank">친구비</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> |
+| 4 |  ![status][ToDo]  | <a href="https://www.acmicpc.net/problem/18116" target="_blank">로봇 조립</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> |
+| 5 |  ![status][ToDo]  | <a href="https://www.acmicpc.net/problem/4195" target="_blank">친구 네트워크</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> |
+| 6 |  ![status][ToDo]  | <a href="https://www.acmicpc.net/problem/10775" target="_blank">공항</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> |
+
 
 [TODO]: https://img.shields.io/badge/-TODO-DFFD26
 [DOING]: https://img.shields.io/badge/-DOING-31AE0F
