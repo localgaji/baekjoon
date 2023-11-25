@@ -11,11 +11,11 @@
 [백준 문제집](https://www.acmicpc.net/workbook/view/6832)
 |           순번           |        진행 상황         |        문제 이름         |         난이도          |
 |  :-----:  | :-----: | :-----: | :-----: |
-| 1 |  ![status][ToDo]  | <a href="https://www.acmicpc.net/problem/14891" target="_blank">톱니바퀴</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |
-| 2 |  ![status][ToDo]  | <a href="https://www.acmicpc.net/problem/20055" target="_blank">컨베이어 벨트 위의 로봇</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |
+| 1 |  ![status][Done]  | <a href="https://www.acmicpc.net/problem/14891" target="_blank">톱니바퀴</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |
+| 2 |  ![status][Done]  | <a href="https://www.acmicpc.net/problem/20055" target="_blank">컨베이어 벨트 위의 로봇</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |
 | 3 |  ![status][ToDo]  | <a href="https://www.acmicpc.net/problem/20165" target="_blank">인내의 도미노 장인 호석</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |
-| 4 |  ![status][ToDo]  | <a href="https://www.acmicpc.net/problem/21922" target="_blank">학부 연구생 민상</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |
-| 5 |  ![status][ToDo]  | <a href="https://www.acmicpc.net/problem/15683" target="_blank">감시</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> |
+| 4 |  ![status][Done]  | <a href="https://www.acmicpc.net/problem/21922" target="_blank">학부 연구생 민상</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |
+| 5 |  ![status][Done]  | <a href="https://www.acmicpc.net/problem/15683" target="_blank">감시</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> |
 | 6 |  ![status][ToDo]  | <a href="https://www.acmicpc.net/problem/17837" target="_blank">새로운 게임 2</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> |
 | 7 |  ![status][ToDo]  | <a href="https://www.acmicpc.net/problem/13460" target="_blank">구슬 탈출 2</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/15.svg"/> |
 | 8 |  ![status][ToDo]  | <a href="https://www.acmicpc.net/problem/22861" target="_blank">폴더 정리 (large)</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/15.svg"/> |
