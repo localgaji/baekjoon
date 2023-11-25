@@ -21,11 +21,11 @@ BFS, DFS 유형을 다양하게 골랐습니다.
 | 05 |  ![status][ToDo]  | <a href="https://www.acmicpc.net/problem/2667" target="_blank">단지번호붙이기</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> |
 | 06 |  ![status][ToDo]  | <a href="https://www.acmicpc.net/problem/16918" target="_blank">봄버맨</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> |
 | 07 |  ![status][ToDo]  | <a href="https://www.acmicpc.net/problem/14940" target="_blank">쉬운 최단거리</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> |
-| 08 |  ![status][ToDo]  | <a href="https://www.acmicpc.net/problem/7576" target="_blank">토마토</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |
-| 09 |  ![status][ToDo]  | <a href="https://www.acmicpc.net/problem/7569" target="_blank">토마토</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |
-| 10 |  ![status][ToDo]  | <a href="https://www.acmicpc.net/problem/16234" target="_blank">인구 이동</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |
+| 08 |  ![status][Done]  | <a href="https://www.acmicpc.net/problem/7576" target="_blank">토마토</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |
+| 09 |  ![status][Done]  | <a href="https://www.acmicpc.net/problem/7569" target="_blank">토마토</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |
+| 10 |  ![status][Done]  | <a href="https://www.acmicpc.net/problem/16234" target="_blank">인구 이동</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |
 | 11 |  ![status][ToDo]  | <a href="https://www.acmicpc.net/problem/13549" target="_blank">숨바꼭질 3</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |
-| 12 |  ![status][ToDo]  | <a href="https://www.acmicpc.net/problem/17836" target="_blank">공주님을 구해라!</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |
+| 12 |  ![status][Done]  | <a href="https://www.acmicpc.net/problem/17836" target="_blank">공주님을 구해라!</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |
 | 13 |  ![status][ToDo]  | <a href="https://www.acmicpc.net/problem/2668" target="_blank">숫자고르기</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |
 | 14 |  ![status][ToDo]  | <a href="https://www.acmicpc.net/problem/13023" target="_blank">ABCDE</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |
 | 15 |  ![status][ToDo]  | <a href="https://www.acmicpc.net/problem/5547" target="_blank">일루미네이션</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> |
