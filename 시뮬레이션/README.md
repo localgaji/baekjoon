@@ -19,7 +19,7 @@
 | 6 |  ![status][ToDo]  | <a href="https://www.acmicpc.net/problem/17837" target="_blank">새로운 게임 2</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> |
 | 7 |  ![status][ToDo]  | <a href="https://www.acmicpc.net/problem/13460" target="_blank">구슬 탈출 2</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/15.svg"/> |
 | 8 |  ![status][ToDo]  | <a href="https://www.acmicpc.net/problem/22861" target="_blank">폴더 정리 (large)</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/15.svg"/> |
-| 9 |  ![status][Done]  | <a href="www.acmicpc.net/problem/16234" target="_blank">인구 이동</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |
+| 9 |  ![status][Done]  | <a href="https://www.acmicpc.net/problem/16234" target="_blank">인구 이동</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |
 | 10 |  ![status][ToDo]  | <a href="https://www.acmicpc.net/problem/21610" target="_blank">마법사 상어와 비바라기</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |
 | 11 |  ![status][ToDo]  | <a href="https://www.acmicpc.net/problem/17144" target="_blank">미세먼지 안녕!</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> |
 | 12 |  ![status][Done]  | <a href="https://www.acmicpc.net/problem/20056" target="_blank">마법사 상어와 파이어볼</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> |
