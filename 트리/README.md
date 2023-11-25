@@ -9,7 +9,7 @@
 ***❗️❗️꼭 문제를 순서대로 안풀어도 됩니다.❗️❗️***
 
 [백준 문제집](https://www.acmicpc.net/workbook/view/7645)
-|          순번          |        추천 문제         |        문제 번호         |        문제 이름         |         난이도          |        풀이 링크         |
+|          순번          |        진행 상황         |        문제 번호         |        문제 이름         |         난이도          |        풀이 링크         |
 | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
 | 00 |  ![status][ToDo]  | <a href="https://www.acmicpc.net/problem/6416" target="_blank">6416</a> | <a href="https://www.acmicpc.net/problem/6416" target="_blank">트리인가?</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/0.svg"/> |                      |
 | 01 |  ![status][ToDo]  | <a href="https://www.acmicpc.net/problem/11725" target="_blank">11725</a> | <a href="https://www.acmicpc.net/problem/11725" target="_blank">트리의 부모 찾기</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> |                      |

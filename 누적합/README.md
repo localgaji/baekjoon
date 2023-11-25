@@ -9,7 +9,7 @@
 ***❗️❗️꼭 문제를 순서대로 안풀어도 됩니다.❗️❗️***
 
 [백준 문제집](https://www.acmicpc.net/workbook/view/7274)
-|          순번          |        추천 문제         |        문제 번호         |        문제 이름         |         난이도          |        풀이 링크         |
+|          순번          |        진행 상황         |        문제 번호         |        문제 이름         |         난이도          |        풀이 링크         |
 | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
 | 00 |  ![status][ToDo]  | <a href="https://www.acmicpc.net/problem/14929" target="_blank">14929</a> | <a href="https://www.acmicpc.net/problem/14929" target="_blank">귀찮아 (SIB)</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | <a href="./../solution/prefix_sum/14929">바로가기</a> |
 | 01 |  ![status][ToDo]  | <a href="https://www.acmicpc.net/problem/2167" target="_blank">2167</a> | <a href="https://www.acmicpc.net/problem/2167" target="_blank">2차원 배열의 합</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | <a href="./../solution/prefix_sum/2167">바로가기</a> |

@@ -2,14 +2,14 @@
 
 [메인으로 돌아가기](https://github.com/tony9402/baekjoon)
 
-추천 문제 아닌 나머지는 나머지를 난이도 섞었습니다.
+진행 상황 아닌 나머지는 나머지를 난이도 섞었습니다.
 
 <br>
 
 ***❗️❗️꼭 문제를 순서대로 안풀어도 됩니다.❗️❗️***
 
 [백준 문제집](https://www.acmicpc.net/workbook/view/7277)
-|          순번          |        추천 문제         |        문제 번호         |        문제 이름         |         난이도          |        풀이 링크         |
+|          순번          |        진행 상황         |        문제 번호         |        문제 이름         |         난이도          |        풀이 링크         |
 | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
 | 00 |  ![status][ToDo]  | <a href="https://www.acmicpc.net/problem/1789" target="_blank">1789</a> | <a href="https://www.acmicpc.net/problem/1789" target="_blank">수들의 합</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | <a href="./../solution/binary_search/1789">바로가기</a> |
 | 01 |  ![status][ToDo]  | <a href="https://www.acmicpc.net/problem/10815" target="_blank">10815</a> | <a href="https://www.acmicpc.net/problem/10815" target="_blank">숫자 카드</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | <a href="./../solution/binary_search/10815">바로가기</a> |
