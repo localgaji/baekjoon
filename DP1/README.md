@@ -16,31 +16,31 @@
 [백준 문제집](https://www.acmicpc.net/workbook/view/7020)
 |           순번           |        진행 상황         |        문제 이름         |         난이도          |
 |  :-----:  | :-----: | :-----: | :-----: |
-| 1 |  ![status][ToDo]  | <a href="https://www.acmicpc.net/problem/1010" target="_blank">다리 놓기</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> |
-| 2 |  ![status][ToDo]  | <a href="https://www.acmicpc.net/problem/9655" target="_blank">돌 게임</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> |
-| 3 |  ![status][ToDo]  | <a href="https://www.acmicpc.net/problem/2839" target="_blank">설탕 배달</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> |
-| 4 |  ![status][ToDo]  | <a href="https://www.acmicpc.net/problem/17626" target="_blank">Four Squares</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> |
-| 5 |  ![status][ToDo]  | <a href="https://www.acmicpc.net/problem/1463" target="_blank">1로 만들기</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> |
-| 6 |  ![status][ToDo]  | <a href="https://www.acmicpc.net/problem/9095" target="_blank">1, 2, 3 더하기</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> |
-| 7 |  ![status][ToDo]  | <a href="https://www.acmicpc.net/problem/11726" target="_blank">2×n 타일링</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> |
-| 8 |  ![status][ToDo]  | <a href="https://www.acmicpc.net/problem/2579" target="_blank">계단 오르기</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> |
-| 9 |  ![status][ToDo]  | <a href="https://www.acmicpc.net/problem/11727" target="_blank">2×n 타일링 2</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> |
-| 10 |  ![status][ToDo]  | <a href="https://www.acmicpc.net/problem/2407" target="_blank">조합</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> |
-| 11 |  ![status][ToDo]  | <a href="https://www.acmicpc.net/problem/11053" target="_blank">가장 긴 증가하는 부분 수열</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> |
-| 12 |  ![status][ToDo]  | <a href="https://www.acmicpc.net/problem/1912" target="_blank">연속합</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> |
-| 13 |  ![status][ToDo]  | <a href="https://www.acmicpc.net/problem/11055" target="_blank">가장 큰 증가하는 부분 수열</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> |
-| 14 |  ![status][ToDo]  | <a href="https://www.acmicpc.net/problem/22857" target="_blank">가장 긴 짝수 연속한 부분 수열 (small)</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> |
-| 15 |  ![status][ToDo]  | <a href="https://www.acmicpc.net/problem/9465" target="_blank">스티커</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> |
-| 16 |  ![status][ToDo]  | <a href="https://www.acmicpc.net/problem/1890" target="_blank">점프</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> |
-| 17 |  ![status][ToDo]  | <a href="https://www.acmicpc.net/problem/2156" target="_blank">포도주 시식</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> |
-| 18 |  ![status][ToDo]  | <a href="https://www.acmicpc.net/problem/10844" target="_blank">쉬운 계단 수</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> |
-| 19 |  ![status][ToDo]  | <a href="https://www.acmicpc.net/problem/11660" target="_blank">구간 합 구하기 5</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> |
-| 20 |  ![status][ToDo]  | <a href="https://www.acmicpc.net/problem/21317" target="_blank">징검다리 건너기</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> |
-| 21 |  ![status][ToDo]  | <a href="https://www.acmicpc.net/problem/22869" target="_blank">징검다리 건너기 (small)</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> |
-| 22 |  ![status][ToDo]  | <a href="https://www.acmicpc.net/problem/15486" target="_blank">퇴사 2</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |
-| 23 |  ![status][ToDo]  | <a href="https://www.acmicpc.net/problem/1106" target="_blank">호텔</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |
-| 24 |  ![status][ToDo]  | <a href="https://www.acmicpc.net/problem/2293" target="_blank">동전 1</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |
-| 25 |  ![status][ToDo]  | <a href="https://www.acmicpc.net/problem/2294" target="_blank">동전 2</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |
+| 1 |  ![status][ToDo]  | <a href="http://www.acmicpc.net/problem/1010" target="_blank">다리 놓기</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> |
+| 2 |  ![status][ToDo]  | <a href="http://www.acmicpc.net/problem/9655" target="_blank">돌 게임</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> |
+| 3 |  ![status][ToDo]  | <a href="http://www.acmicpc.net/problem/2839" target="_blank">설탕 배달</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> |
+| 4 |  ![status][ToDo]  | <a href="http://www.acmicpc.net/problem/17626" target="_blank">Four Squares</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> |
+| 5 |  ![status][ToDo]  | <a href="http://www.acmicpc.net/problem/1463" target="_blank">1로 만들기</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> |
+| 6 |  ![status][ToDo]  | <a href="http://www.acmicpc.net/problem/9095" target="_blank">1, 2, 3 더하기</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> |
+| 7 |  ![status][ToDo]  | <a href="http://www.acmicpc.net/problem/11726" target="_blank">2×n 타일링</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> |
+| 8 |  ![status][ToDo]  | <a href="http://www.acmicpc.net/problem/2579" target="_blank">계단 오르기</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> |
+| 9 |  ![status][ToDo]  | <a href="http://www.acmicpc.net/problem/11727" target="_blank">2×n 타일링 2</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> |
+| 10 |  ![status][ToDo]  | <a href="http://www.acmicpc.net/problem/2407" target="_blank">조합</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> |
+| 11 |  ![status][ToDo]  | <a href="http://www.acmicpc.net/problem/11053" target="_blank">가장 긴 증가하는 부분 수열</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> |
+| 12 |  ![status][ToDo]  | <a href="http://www.acmicpc.net/problem/1912" target="_blank">연속합</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> |
+| 13 |  ![status][ToDo]  | <a href="http://www.acmicpc.net/problem/11055" target="_blank">가장 큰 증가하는 부분 수열</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> |
+| 14 |  ![status][ToDo]  | <a href="http://www.acmicpc.net/problem/22857" target="_blank">가장 긴 짝수 연속한 부분 수열 (small)</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> |
+| 15 |  ![status][ToDo]  | <a href="http://www.acmicpc.net/problem/9465" target="_blank">스티커</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> |
+| 16 |  ![status][ToDo]  | <a href="http://www.acmicpc.net/problem/1890" target="_blank">점프</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> |
+| 17 |  ![status][ToDo]  | <a href="http://www.acmicpc.net/problem/2156" target="_blank">포도주 시식</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> |
+| 18 |  ![status][ToDo]  | <a href="http://www.acmicpc.net/problem/10844" target="_blank">쉬운 계단 수</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> |
+| 19 |  ![status][ToDo]  | <a href="http://www.acmicpc.net/problem/11660" target="_blank">구간 합 구하기 5</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> |
+| 20 |  ![status][ToDo]  | <a href="http://www.acmicpc.net/problem/21317" target="_blank">징검다리 건너기</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> |
+| 21 |  ![status][ToDo]  | <a href="http://www.acmicpc.net/problem/22869" target="_blank">징검다리 건너기 (small)</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> |
+| 22 |  ![status][ToDo]  | <a href="http://www.acmicpc.net/problem/15486" target="_blank">퇴사 2</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |
+| 23 |  ![status][ToDo]  | <a href="http://www.acmicpc.net/problem/1106" target="_blank">호텔</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |
+| 24 |  ![status][ToDo]  | <a href="http://www.acmicpc.net/problem/2293" target="_blank">동전 1</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |
+| 25 |  ![status][ToDo]  | <a href="http://www.acmicpc.net/problem/2294" target="_blank">동전 2</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |
 
 
 
