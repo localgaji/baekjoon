@@ -41,3 +41,7 @@
 | 25 |  ![status][ToDo]  | <a href="https://www.acmicpc.net/problem/22944" target="_blank">22944</a> | <a href="https://www.acmicpc.net/problem/22944" target="_blank">죽음의 비</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | <a href="./../solution/backtracking/22944">바로가기</a> |
 | 26 |  ![status][ToDo]  | <a href="https://www.acmicpc.net/problem/17136" target="_blank">17136</a> | <a href="https://www.acmicpc.net/problem/17136" target="_blank">색종이 붙이기</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> |                      |
 | 27 |  ![status][ToDo]  | <a href="https://www.acmicpc.net/problem/1799" target="_blank">1799</a> | <a href="https://www.acmicpc.net/problem/1799" target="_blank">비숍</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/15.svg"/> |                      |
+
+[TODO]: https://img.shields.io/badge/-TODO-DFFD26
+[DOING]: https://img.shields.io/badge/-DOING-31AE0F
+[DONE]: https://img.shields.io/badge/-DONE-0885CC

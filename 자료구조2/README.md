@@ -22,3 +22,7 @@
 | 08 |  ![status][ToDo]  | <a href="https://www.acmicpc.net/problem/2696" target="_blank">2696</a> | <a href="https://www.acmicpc.net/problem/2696" target="_blank">중앙값 구하기</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | <a href="./../solution/data_structure2/2696">바로가기</a> |
 | 09 |  ![status][ToDo]  | <a href="https://www.acmicpc.net/problem/21942" target="_blank">21942</a> | <a href="https://www.acmicpc.net/problem/21942" target="_blank">부품 대여장</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | <a href="./../solution/data_structure2/21942">바로가기</a> |
 | 10 |  ![status][ToDo]  | <a href="https://www.acmicpc.net/problem/21944" target="_blank">21944</a> | <a href="https://www.acmicpc.net/problem/21944" target="_blank">문제 추천 시스템 Version 2</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> |                      |
+
+[TODO]: https://img.shields.io/badge/-TODO-DFFD26
+[DOING]: https://img.shields.io/badge/-DOING-31AE0F
+[DONE]: https://img.shields.io/badge/-DONE-0885CC

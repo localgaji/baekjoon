@@ -43,3 +43,8 @@
 | 24 |  ![status][ToDo]  | <a href="https://www.acmicpc.net/problem/1106" target="_blank">1106</a> | <a href="https://www.acmicpc.net/problem/1106" target="_blank">호텔</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | <a href="./../solution/dynamic_programming_1/1106">바로가기</a> |
 | 25 |  ![status][ToDo]  | <a href="https://www.acmicpc.net/problem/2293" target="_blank">2293</a> | <a href="https://www.acmicpc.net/problem/2293" target="_blank">동전 1</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |                      |
 | 26 |  ![status][ToDo]  | <a href="https://www.acmicpc.net/problem/2294" target="_blank">2294</a> | <a href="https://www.acmicpc.net/problem/2294" target="_blank">동전 2</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | <a href="./../solution/dynamic_programming_1/2294">바로가기</a> |
+
+
+[TODO]: https://img.shields.io/badge/-TODO-DFFD26
+[DOING]: https://img.shields.io/badge/-DOING-31AE0F
+[DONE]: https://img.shields.io/badge/-DONE-0885CC

@@ -41,3 +41,7 @@
 | 27 |  ![status][ToDo]  | <a href="https://www.acmicpc.net/problem/17837" target="_blank">17837</a> | <a href="https://www.acmicpc.net/problem/17837" target="_blank">새로운 게임 2</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> |                      |
 | 28 |  ![status][ToDo]  | <a href="https://www.acmicpc.net/problem/13460" target="_blank">13460</a> | <a href="https://www.acmicpc.net/problem/13460" target="_blank">구슬 탈출 2</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/15.svg"/> |                      |
 | 29 |  ![status][ToDo]  | <a href="https://www.acmicpc.net/problem/22861" target="_blank">22861</a> | <a href="https://www.acmicpc.net/problem/22861" target="_blank">폴더 정리 (large)</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/15.svg"/> |                      |
+
+[TODO]: https://img.shields.io/badge/-TODO-DFFD26
+[DOING]: https://img.shields.io/badge/-DOING-31AE0F
+[DONE]: https://img.shields.io/badge/-DONE-0885CC

@@ -27,3 +27,7 @@
 | 13 |  ![status][ToDo]  | <a href="https://www.acmicpc.net/problem/2493" target="_blank">2493</a> | <a href="https://www.acmicpc.net/problem/2493" target="_blank">탑</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | <a href="./../solution/data_structure/2493">바로가기</a> |
 | 14 |  ![status][ToDo]  | <a href="https://www.acmicpc.net/problem/22942" target="_blank">22942</a> | <a href="https://www.acmicpc.net/problem/22942" target="_blank">데이터 체커</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | <a href="./../solution/data_structure/22942">바로가기</a> |
 | 15 |  ![status][ToDo]  | <a href="https://www.acmicpc.net/problem/1918" target="_blank">1918</a> | <a href="https://www.acmicpc.net/problem/1918" target="_blank">후위 표기식</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | <a href="./../solution/data_structure/1918">바로가기</a> |
+
+[TODO]: https://img.shields.io/badge/-TODO-DFFD26
+[DOING]: https://img.shields.io/badge/-DOING-31AE0F
+[DONE]: https://img.shields.io/badge/-DONE-0885CC

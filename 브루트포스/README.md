@@ -46,3 +46,7 @@
 | 30 |  ![status][ToDo]  | <a href="https://www.acmicpc.net/problem/18808" target="_blank">18808</a> | <a href="https://www.acmicpc.net/problem/18808" target="_blank">스티커 붙이기</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | <a href="./../solution/brute_force/18808">바로가기</a> |
 | 31 |  ![status][ToDo]  | <a href="https://www.acmicpc.net/problem/22944" target="_blank">22944</a> | <a href="https://www.acmicpc.net/problem/22944" target="_blank">죽음의 비</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> |                      |
 | 32 |  ![status][ToDo]  | <a href="https://www.acmicpc.net/problem/21943" target="_blank">21943</a> | <a href="https://www.acmicpc.net/problem/21943" target="_blank">연산 최대로</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> |                      |
+
+[TODO]: https://img.shields.io/badge/-TODO-DFFD26
+[DOING]: https://img.shields.io/badge/-DOING-31AE0F
+[DONE]: https://img.shields.io/badge/-DONE-0885CC

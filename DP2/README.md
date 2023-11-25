@@ -45,3 +45,8 @@
 | 25 |  ![status][ToDo]  | <a href="https://www.acmicpc.net/problem/1823" target="_blank">1823</a> | <a href="https://www.acmicpc.net/problem/1823" target="_blank">수확</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> |                      |
 | 26 |  ![status][ToDo]  | <a href="https://www.acmicpc.net/problem/20181" target="_blank">20181</a> | <a href="https://www.acmicpc.net/problem/20181" target="_blank">꿈틀꿈틀 호석 애벌레 - 효율성</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> |                      |
 | 27 |  ![status][ToDo]  | <a href="https://www.acmicpc.net/problem/3687" target="_blank">3687</a> | <a href="https://www.acmicpc.net/problem/3687" target="_blank">성냥개비</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | <a href="./../solution/dynamic_programming_2/3687">바로가기</a> |
+
+
+[TODO]: https://img.shields.io/badge/-TODO-DFFD26
+[DOING]: https://img.shields.io/badge/-DOING-31AE0F
+[DONE]: https://img.shields.io/badge/-DONE-0885CC

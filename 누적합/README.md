@@ -22,3 +22,7 @@
 | 08 |  ![status][ToDo]  | <a href="https://www.acmicpc.net/problem/20440" target="_blank">20440</a> | <a href="https://www.acmicpc.net/problem/20440" target="_blank">🎵니가 싫어 싫어 너무 싫어 싫어 오지 마 내게 찝쩍대지마🎵 - 1</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | <a href="./../solution/prefix_sum/20440">바로가기</a> |
 | 09 |  ![status][ToDo]  | <a href="https://www.acmicpc.net/problem/21757" target="_blank">21757</a> | <a href="https://www.acmicpc.net/problem/21757" target="_blank">나누기</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | <a href="./../solution/prefix_sum/21757">바로가기</a> |
 | 10 |  ![status][ToDo]  | <a href="https://www.acmicpc.net/problem/20543" target="_blank">20543</a> | <a href="https://www.acmicpc.net/problem/20543" target="_blank">폭탄 던지는 태영이</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/15.svg"/> | <a href="./../solution/prefix_sum/20543">바로가기</a> |
+
+[TODO]: https://img.shields.io/badge/-TODO-DFFD26
+[DOING]: https://img.shields.io/badge/-DOING-31AE0F
+[DONE]: https://img.shields.io/badge/-DONE-0885CC

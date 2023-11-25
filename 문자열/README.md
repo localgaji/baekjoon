@@ -28,3 +28,7 @@
 | 16 |  ![status][ToDo]  | <a href="https://www.acmicpc.net/problem/17609" target="_blank">17609</a> | <a href="https://www.acmicpc.net/problem/17609" target="_blank">회문</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | <a href="./../solution/string/17609">바로가기</a> |
 | 17 |  ![status][ToDo]  | <a href="https://www.acmicpc.net/problem/20437" target="_blank">20437</a> | <a href="https://www.acmicpc.net/problem/20437" target="_blank">문자열 게임 2</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | <a href="./../solution/string/20437">바로가기</a> |
 | 18 |  ![status][ToDo]  | <a href="https://www.acmicpc.net/problem/20210" target="_blank">20210</a> | <a href="https://www.acmicpc.net/problem/20210" target="_blank">파일 탐색기</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> |                      |
+
+[TODO]: https://img.shields.io/badge/-TODO-DFFD26
+[DOING]: https://img.shields.io/badge/-DOING-31AE0F
+[DONE]: https://img.shields.io/badge/-DONE-0885CC

@@ -26,3 +26,7 @@
 | 12 |  ![status][ToDo]  | <a href="https://www.acmicpc.net/problem/4256" target="_blank">4256</a> | <a href="https://www.acmicpc.net/problem/4256" target="_blank">트리</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> |                      |
 | 13 |  ![status][ToDo]  | <a href="https://www.acmicpc.net/problem/2250" target="_blank">2250</a> | <a href="https://www.acmicpc.net/problem/2250" target="_blank">트리의 높이와 너비</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> |                      |
 | 14 |  ![status][ToDo]  | <a href="https://www.acmicpc.net/problem/2263" target="_blank">2263</a> | <a href="https://www.acmicpc.net/problem/2263" target="_blank">트리의 순회</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/15.svg"/> |                      |
+
+[TODO]: https://img.shields.io/badge/-TODO-DFFD26
+[DOING]: https://img.shields.io/badge/-DOING-31AE0F
+[DONE]: https://img.shields.io/badge/-DONE-0885CC

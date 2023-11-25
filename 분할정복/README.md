@@ -17,3 +17,7 @@
 | 05 |  ![status][ToDo]  | <a href="https://www.acmicpc.net/problem/2447" target="_blank">2447</a> | <a href="https://www.acmicpc.net/problem/2447" target="_blank">별 찍기 - 10</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | <a href="./../solution/divide_and_conquer/2447">바로가기</a> |
 | 06 |  ![status][ToDo]  | <a href="https://www.acmicpc.net/problem/2448" target="_blank">2448</a> | <a href="https://www.acmicpc.net/problem/2448" target="_blank">별 찍기 - 11</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | <a href="./../solution/divide_and_conquer/2448">바로가기</a> |
 | 07 |  ![status][ToDo]  | <a href="https://www.acmicpc.net/problem/4256" target="_blank">4256</a> | <a href="https://www.acmicpc.net/problem/4256" target="_blank">트리</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | <a href="./../solution/divide_and_conquer/4256">바로가기</a> |
+
+[TODO]: https://img.shields.io/badge/-TODO-DFFD26
+[DOING]: https://img.shields.io/badge/-DOING-31AE0F
+[DONE]: https://img.shields.io/badge/-DONE-0885CC

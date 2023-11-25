@@ -44,3 +44,7 @@
 | 27 |  ![status][ToDo]  | <a href="https://www.acmicpc.net/problem/22856" target="_blank">22856</a> | <a href="https://www.acmicpc.net/problem/22856" target="_blank">트리 순회</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | <a href="./../solution/implementation/22856">바로가기</a> |
 | 28 |  ![status][ToDo]  | <a href="https://www.acmicpc.net/problem/22860" target="_blank">22860</a> | <a href="https://www.acmicpc.net/problem/22860" target="_blank">폴더 정리 (small)</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> |                      |
 | 29 |  ![status][ToDo]  | <a href="https://www.acmicpc.net/problem/22859" target="_blank">22859</a> | <a href="https://www.acmicpc.net/problem/22859" target="_blank">HTML 파싱</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> |                      |
+
+[TODO]: https://img.shields.io/badge/-TODO-DFFD26
+[DOING]: https://img.shields.io/badge/-DOING-31AE0F
+[DONE]: https://img.shields.io/badge/-DONE-0885CC

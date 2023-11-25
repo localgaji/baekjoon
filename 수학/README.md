@@ -29,3 +29,7 @@
 | 15 |  ![status][ToDo]  | <a href="https://www.acmicpc.net/problem/21275" target="_blank">21275</a> | <a href="https://www.acmicpc.net/problem/21275" target="_blank">폰 호석만</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | <a href="./../solution/math/21275">바로가기</a> |
 | 16 |  ![status][ToDo]  | <a href="https://www.acmicpc.net/problem/1747" target="_blank">1747</a> | <a href="https://www.acmicpc.net/problem/1747" target="_blank">소수&팰린드롬</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | <a href="./../solution/math/1747">바로가기</a> |
 | 17 |  ![status][ToDo]  | <a href="https://www.acmicpc.net/problem/22943" target="_blank">22943</a> | <a href="https://www.acmicpc.net/problem/22943" target="_blank">수</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |                      |
+
+[TODO]: https://img.shields.io/badge/-TODO-DFFD26
+[DOING]: https://img.shields.io/badge/-DOING-31AE0F
+[DONE]: https://img.shields.io/badge/-DONE-0885CC

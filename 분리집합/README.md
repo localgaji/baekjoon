@@ -20,3 +20,7 @@
 | 03 |  ![status][ToDo]  | <a href="https://www.acmicpc.net/problem/18116" target="_blank">18116</a> | <a href="https://www.acmicpc.net/problem/18116" target="_blank">로봇 조립</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | <a href="./../solution/disjoint_set/18116">바로가기</a> |
 | 04 |  ![status][ToDo]  | <a href="https://www.acmicpc.net/problem/4195" target="_blank">4195</a> | <a href="https://www.acmicpc.net/problem/4195" target="_blank">친구 네트워크</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | <a href="./../solution/disjoint_set/4195">바로가기</a> |
 | 05 |  ![status][ToDo]  | <a href="https://www.acmicpc.net/problem/10775" target="_blank">10775</a> | <a href="https://www.acmicpc.net/problem/10775" target="_blank">공항</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | <a href="./../solution/disjoint_set/10775">바로가기</a> |
+
+[TODO]: https://img.shields.io/badge/-TODO-DFFD26
+[DOING]: https://img.shields.io/badge/-DOING-31AE0F
+[DONE]: https://img.shields.io/badge/-DONE-0885CC

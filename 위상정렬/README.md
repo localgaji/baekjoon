@@ -18,3 +18,7 @@
 | 02 |  ![status][ToDo]  | <a href="https://www.acmicpc.net/problem/2252" target="_blank">2252</a> | <a href="https://www.acmicpc.net/problem/2252" target="_blank">줄 세우기</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> |                      |
 | 03 |  ![status][ToDo]  | <a href="https://www.acmicpc.net/problem/2623" target="_blank">2623</a> | <a href="https://www.acmicpc.net/problem/2623" target="_blank">음악프로그램</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> |                      |
 | 04 |  ![status][ToDo]  | <a href="https://www.acmicpc.net/problem/1766" target="_blank">1766</a> | <a href="https://www.acmicpc.net/problem/1766" target="_blank">문제집</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> |                      |
+
+[TODO]: https://img.shields.io/badge/-TODO-DFFD26
+[DOING]: https://img.shields.io/badge/-DOING-31AE0F
+[DONE]: https://img.shields.io/badge/-DONE-0885CC

@@ -38,3 +38,7 @@
 | 24 |  ![status][ToDo]  | <a href="https://www.acmicpc.net/problem/2285" target="_blank">2285</a> | <a href="https://www.acmicpc.net/problem/2285" target="_blank">우체국</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> |                      |
 | 25 |  ![status][ToDo]  | <a href="https://www.acmicpc.net/problem/2812" target="_blank">2812</a> | <a href="https://www.acmicpc.net/problem/2812" target="_blank">크게 만들기</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | <a href="./../solution/greedy/2812">바로가기</a> |
 | 26 |  ![status][ToDo]  | <a href="https://www.acmicpc.net/problem/8980" target="_blank">8980</a> | <a href="https://www.acmicpc.net/problem/8980" target="_blank">택배</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> |                      |
+
+[TODO]: https://img.shields.io/badge/-TODO-DFFD26
+[DOING]: https://img.shields.io/badge/-DOING-31AE0F
+[DONE]: https://img.shields.io/badge/-DONE-0885CC

@@ -44,3 +44,7 @@ BFS, DFS 유형을 다양하게 골랐습니다.
 | 28 |  ![status][ToDo]  | <a href="https://www.acmicpc.net/problem/22868" target="_blank">22868</a> | <a href="https://www.acmicpc.net/problem/22868" target="_blank">산책 (small)</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> |                      |
 | 29 |  ![status][ToDo]  | <a href="https://www.acmicpc.net/problem/22948" target="_blank">22948</a> | <a href="https://www.acmicpc.net/problem/22948" target="_blank">원 이동하기 2</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> |                      |
 | 30 |  ![status][ToDo]  | <a href="https://www.acmicpc.net/problem/22946" target="_blank">22946</a> | <a href="https://www.acmicpc.net/problem/22946" target="_blank">원 이동하기 1</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> |                      |
+
+[TODO]: https://img.shields.io/badge/-TODO-DFFD26
+[DOING]: https://img.shields.io/badge/-DOING-31AE0F
+[DONE]: https://img.shields.io/badge/-DONE-0885CC
