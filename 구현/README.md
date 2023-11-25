@@ -12,7 +12,7 @@
 
 [백준 문제집](https://www.acmicpc.net/workbook/view/6783)
 
-|          순번          |        추천 문제         |        문제 번호         |        문제 이름         |         난이도          |        풀이 링크         |
+|          순번          |        진행 상황         |        문제 번호         |        문제 이름         |         난이도          |        풀이 링크         |
 | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
 | 00 |  ![status][ToDo]  | <a href="https://www.acmicpc.net/problem/21608" target="_blank">21608</a> | <a href="https://www.acmicpc.net/problem/21608" target="_blank">상어 초등학교</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | <a href="./../solution/implementation/21608">바로가기</a> |
 | 01 |  ![status][ToDo]  | <a href="https://www.acmicpc.net/problem/21611" target="_blank">21611</a> | <a href="https://www.acmicpc.net/problem/21611" target="_blank">마법사 상어와 블리자드</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/15.svg"/> |                      |
