@@ -25,8 +25,8 @@ BFS, DFS 유형을 다양하게 골랐습니다.
 | 9 |  ![status][Done]  | <a href="http://www.acmicpc.net/problem/14502" target="_blank">연구소</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> |
 | 10 |  ![status][Done]  | <a href="http://www.acmicpc.net/problem/2636" target="_blank">치즈</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> |
 | 11 |  ![status][Done]  | <a href="http://www.acmicpc.net/problem/16973" target="_blank">직사각형 탈출</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> |
-| 12 |  ![status][ToDo]  | <a href="http://www.acmicpc.net/problem/18513" target="_blank">샘터</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> |
-| 13 |  ![status][ToDo]  | <a href="http://www.acmicpc.net/problem/2573" target="_blank">빙산</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> |
+| 12 |  ![status][Done]  | <a href="http://www.acmicpc.net/problem/18513" target="_blank">샘터</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> |
+| 13 |  ![status][Done]  | <a href="http://www.acmicpc.net/problem/2573" target="_blank">빙산</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> |
 | 14 |  ![status][ToDo]  | <a href="http://www.acmicpc.net/problem/4179" target="_blank">불!</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> |
 | 15 |  ![status][ToDo]  | <a href="http://www.acmicpc.net/problem/1967" target="_blank">트리의 지름</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> |
 | 16 |  ![status][ToDo]  | <a href="http://www.acmicpc.net/problem/1600" target="_blank">말이 되고픈 원숭이</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> |
