@@ -32,7 +32,7 @@ BFS, DFS 유형을 다양하게 골랐습니다.
 | 16 |  ![status][Done]  | <a href="http://www.acmicpc.net/problem/1600" target="_blank">말이 되고픈 원숭이</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> |
 | 17 |  ![status][Done]  | <a href="http://www.acmicpc.net/problem/16954" target="_blank">움직이는 미로 탈출</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> |
 | 18 |  ![status][Done]  | <a href="http://www.acmicpc.net/problem/2206" target="_blank">벽 부수고 이동하기</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> |
-| 19 |  ![status][ToDo]  | <a href="http://www.acmicpc.net/problem/16932" target="_blank">모양 만들기</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> |
+| 19 |  ![status][Done]  | <a href="http://www.acmicpc.net/problem/16932" target="_blank">모양 만들기</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> |
 | 20 |  ![status][ToDo]  | <a href="http://www.acmicpc.net/problem/9466" target="_blank">텀 프로젝트</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> |
 | 21 |  ![status][ToDo]  | <a href="http://www.acmicpc.net/problem/22868" target="_blank">산책 (small)</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> |
 | 22 |  ![status][ToDo]  | <a href="http://www.acmicpc.net/problem/22948" target="_blank">원 이동하기 2</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> |
