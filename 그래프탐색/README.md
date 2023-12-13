@@ -33,8 +33,8 @@ BFS, DFS 유형을 다양하게 골랐습니다.
 | 17 |  ![status][Done]  | <a href="http://www.acmicpc.net/problem/16954" target="_blank">움직이는 미로 탈출</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> |
 | 18 |  ![status][Done]  | <a href="http://www.acmicpc.net/problem/2206" target="_blank">벽 부수고 이동하기</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> |
 | 19 |  ![status][Done]  | <a href="http://www.acmicpc.net/problem/16932" target="_blank">모양 만들기</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> |
-| 20 |  ![status][ToDo]  | <a href="http://www.acmicpc.net/problem/9466" target="_blank">텀 프로젝트</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> |
-| 21 |  ![status][ToDo]  | <a href="http://www.acmicpc.net/problem/22868" target="_blank">산책 (small)</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> |
+| 20 |  ![status][Done]  | <a href="http://www.acmicpc.net/problem/9466" target="_blank">텀 프로젝트</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> |
+| 21 |  ![status][Done]  | <a href="http://www.acmicpc.net/problem/22868" target="_blank">산책 (small)</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> |
 | 22 |  ![status][ToDo]  | <a href="http://www.acmicpc.net/problem/22948" target="_blank">원 이동하기 2</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> |
 | 23 |  ![status][ToDo]  | <a href="http://www.acmicpc.net/problem/22946" target="_blank">원 이동하기 1</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> |
 |  |  ![status][ToDo]  | <a href="http://www.acmicpc.net/problem/2606" target="_blank">바이러스</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> |
