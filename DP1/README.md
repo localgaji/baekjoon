@@ -19,8 +19,8 @@
 | 1 |  ![status][Done]  | <a href="http://www.acmicpc.net/problem/1010" target="_blank">다리 놓기</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> |
 | 2 |  ![status][Done]  | <a href="http://www.acmicpc.net/problem/9655" target="_blank">돌 게임</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> |
 | 3 |  ![status][Done]  | <a href="http://www.acmicpc.net/problem/2839" target="_blank">설탕 배달</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> |
-| 4 |  ![status][ToDo]  | <a href="http://www.acmicpc.net/problem/17626" target="_blank">Four Squares</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> |
-| 5 |  ![status][ToDo]  | <a href="http://www.acmicpc.net/problem/1463" target="_blank">1로 만들기</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> |
+| 4 |  ![status][Done]  | <a href="http://www.acmicpc.net/problem/17626" target="_blank">Four Squares</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> |
+| 5 |  ![status][Done]  | <a href="http://www.acmicpc.net/problem/1463" target="_blank">1로 만들기</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> |
 | 6 |  ![status][ToDo]  | <a href="http://www.acmicpc.net/problem/9095" target="_blank">1, 2, 3 더하기</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> |
 | 7 |  ![status][ToDo]  | <a href="http://www.acmicpc.net/problem/11726" target="_blank">2×n 타일링</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> |
 | 8 |  ![status][ToDo]  | <a href="http://www.acmicpc.net/problem/2579" target="_blank">계단 오르기</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> |
