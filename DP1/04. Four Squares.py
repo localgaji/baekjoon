@@ -1,6 +1,7 @@
+""" 
 DP로 풀면 시간초과뜸.. Pypy로는 풀리긴 했다
+"""
 
-```py
 import sys
 
 # 입력
@@ -25,10 +26,10 @@ for n in range(2, N + 1):
 
 print(table[N])
 
-```
-  
+"""
 DFS 로 푸니까 잘 풀린다
-```py
+"""
+
 import sys
 
 # 입력
@@ -60,4 +61,3 @@ def dfs(depth, total, start):
 dfs(0, 0, 0)
 print(answer[0])
 
-```
