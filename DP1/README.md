@@ -21,10 +21,10 @@
 | 3 |  ![status][Done]  | <a href="http://www.acmicpc.net/problem/2839" target="_blank">설탕 배달</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> |
 | 4 |  ![status][Done]  | <a href="http://www.acmicpc.net/problem/17626" target="_blank">Four Squares</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> |
 | 5 |  ![status][Done]  | <a href="http://www.acmicpc.net/problem/1463" target="_blank">1로 만들기</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> |
-| 6 |  ![status][ToDo]  | <a href="http://www.acmicpc.net/problem/9095" target="_blank">1, 2, 3 더하기</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> |
-| 7 |  ![status][ToDo]  | <a href="http://www.acmicpc.net/problem/11726" target="_blank">2×n 타일링</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> |
-| 8 |  ![status][ToDo]  | <a href="http://www.acmicpc.net/problem/2579" target="_blank">계단 오르기</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> |
-| 9 |  ![status][ToDo]  | <a href="http://www.acmicpc.net/problem/11727" target="_blank">2×n 타일링 2</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> |
+| 6 |  ![status][Done]  | <a href="http://www.acmicpc.net/problem/9095" target="_blank">1, 2, 3 더하기</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> |
+| 7 |  ![status][Done]  | <a href="http://www.acmicpc.net/problem/11726" target="_blank">2×n 타일링</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> |
+| 8 |  ![status][Done]  | <a href="http://www.acmicpc.net/problem/2579" target="_blank">계단 오르기</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> |
+| 9 |  ![status][Done]  | <a href="http://www.acmicpc.net/problem/11727" target="_blank">2×n 타일링 2</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> |
 | 10 |  ![status][ToDo]  | <a href="http://www.acmicpc.net/problem/2407" target="_blank">조합</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> |
 | 11 |  ![status][ToDo]  | <a href="http://www.acmicpc.net/problem/11053" target="_blank">가장 긴 증가하는 부분 수열</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> |
 | 12 |  ![status][ToDo]  | <a href="http://www.acmicpc.net/problem/1912" target="_blank">연속합</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> |
