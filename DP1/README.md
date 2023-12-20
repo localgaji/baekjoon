@@ -28,9 +28,9 @@
 | 10 |  ![status][Done]  | <a href="http://www.acmicpc.net/problem/2407" target="_blank">조합</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> |
 | 11 |  ![status][Done]  | <a href="http://www.acmicpc.net/problem/11053" target="_blank">가장 긴 증가하는 부분 수열</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> |
 | 12 |  ![status][Done]  | <a href="http://www.acmicpc.net/problem/1912" target="_blank">연속합</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> |
-| 13 |  ![status][ToDo]  | <a href="http://www.acmicpc.net/problem/11055" target="_blank">가장 큰 증가하는 부분 수열</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> |
-| 14 |  ![status][ToDo]  | <a href="http://www.acmicpc.net/problem/22857" target="_blank">가장 긴 짝수 연속한 부분 수열 (small)</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> |
-| 15 |  ![status][ToDo]  | <a href="http://www.acmicpc.net/problem/9465" target="_blank">스티커</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> |
+| 13 |  ![status][Done]  | <a href="http://www.acmicpc.net/problem/11055" target="_blank">가장 큰 증가하는 부분 수열</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> |
+| 14 |  ![status][Done]  | <a href="http://www.acmicpc.net/problem/22857" target="_blank">가장 긴 짝수 연속한 부분 수열 (small)</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> |
+| 15 |  ![status][Done]  | <a href="http://www.acmicpc.net/problem/9465" target="_blank">스티커</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> |
 | 16 |  ![status][ToDo]  | <a href="http://www.acmicpc.net/problem/1890" target="_blank">점프</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> |
 | 17 |  ![status][ToDo]  | <a href="http://www.acmicpc.net/problem/2156" target="_blank">포도주 시식</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> |
 | 18 |  ![status][ToDo]  | <a href="http://www.acmicpc.net/problem/10844" target="_blank">쉬운 계단 수</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> |
