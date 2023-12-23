@@ -35,8 +35,8 @@
 | 17 |  ![status][Done]  | <a href="http://www.acmicpc.net/problem/2156" target="_blank">포도주 시식</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> |
 | 18 |  ![status][Done]  | <a href="http://www.acmicpc.net/problem/10844" target="_blank">쉬운 계단 수</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> |
 | 19 |  ![status][ToDo]  | <a href="http://www.acmicpc.net/problem/11660" target="_blank">구간 합 구하기 5</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> |
-| 20 |  ![status][ToDo]  | <a href="http://www.acmicpc.net/problem/21317" target="_blank">징검다리 건너기</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> |
-| 21 |  ![status][ToDo]  | <a href="http://www.acmicpc.net/problem/22869" target="_blank">징검다리 건너기 (small)</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> |
+| 20 |  ![status][Done]  | <a href="http://www.acmicpc.net/problem/21317" target="_blank">징검다리 건너기</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> |
+| 21 |  ![status][Done]  | <a href="http://www.acmicpc.net/problem/22869" target="_blank">징검다리 건너기 (small)</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> |
 | 22 |  ![status][ToDo]  | <a href="http://www.acmicpc.net/problem/15486" target="_blank">퇴사 2</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |
 | 23 |  ![status][ToDo]  | <a href="http://www.acmicpc.net/problem/1106" target="_blank">호텔</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |
 | 24 |  ![status][ToDo]  | <a href="http://www.acmicpc.net/problem/2293" target="_blank">동전 1</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |
