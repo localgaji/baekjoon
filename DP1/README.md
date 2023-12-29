@@ -38,7 +38,7 @@
 | 20 |  ![status][Done]  | <a href="http://www.acmicpc.net/problem/21317" target="_blank">징검다리 건너기</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> |
 | 21 |  ![status][Done]  | <a href="http://www.acmicpc.net/problem/22869" target="_blank">징검다리 건너기 (small)</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> |
 | 22 |  ![status][Done]  | <a href="http://www.acmicpc.net/problem/15486" target="_blank">퇴사 2</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |
-| 23 |  ![status][ToDo]  | <a href="http://www.acmicpc.net/problem/1106" target="_blank">호텔</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |
+| 23 |  ![status][Done]  | <a href="http://www.acmicpc.net/problem/1106" target="_blank">호텔</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |
 | 24 |  ![status][ToDo]  | <a href="http://www.acmicpc.net/problem/2293" target="_blank">동전 1</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |
 | 25 |  ![status][ToDo]  | <a href="http://www.acmicpc.net/problem/2294" target="_blank">동전 2</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |
 
