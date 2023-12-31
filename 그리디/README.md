@@ -11,8 +11,8 @@
 [백준 문제집](https://www.acmicpc.net/workbook/view/6833)
 |           순번           |        진행 상황         |        문제 이름         |         난이도          |
 |  :-----:  | :-----: | :-----: | :-----: |
-| 1 |  ![status][ToDo]  | <a href="http://www.acmicpc.net/problem/11000" target="_blank">강의실 배정</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |
-| 2 |  ![status][ToDo]  | <a href="http://www.acmicpc.net/problem/13164" target="_blank">행복 유치원</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |
+| 1 |  ![status][Done]  | <a href="http://www.acmicpc.net/problem/11000" target="_blank">강의실 배정</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |
+| 2 |  ![status][Done]  | <a href="http://www.acmicpc.net/problem/13164" target="_blank">행복 유치원</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |
 | 3 |  ![status][ToDo]  | <a href="http://www.acmicpc.net/problem/19598" target="_blank">최소 회의실 개수</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |
 | 4 |  ![status][ToDo]  | <a href="http://www.acmicpc.net/problem/2212" target="_blank">센서</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |
 | 5 |  ![status][ToDo]  | <a href="http://www.acmicpc.net/problem/1092" target="_blank">배</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |
