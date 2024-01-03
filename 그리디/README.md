@@ -21,7 +21,7 @@
 | 8 |  ![status][Done]  | <a href="http://www.acmicpc.net/problem/13975" target="_blank">파일 합치기 3</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> |
 | 9 |  ![status][Done]  | <a href="http://www.acmicpc.net/problem/1715" target="_blank">카드 정렬하기</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> |
 | 10 |  ![status][ToDo]  | <a href="http://www.acmicpc.net/problem/2285" target="_blank">우체국</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> |
-| 11 |  ![status][ToDo]  | <a href="http://www.acmicpc.net/problem/2812" target="_blank">크게 만들기</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> |
+| 11 |  ![status][Done]  | <a href="http://www.acmicpc.net/problem/2812" target="_blank">크게 만들기</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> |
 | 12 |  ![status][ToDo]  | <a href="http://www.acmicpc.net/problem/8980" target="_blank">택배</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> |
 |  |  ![status][ToDo]  | <a href="http://www.acmicpc.net/problem/14916" target="_blank">거스름돈</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> |
 |  |  ![status][ToDo]  | <a href="http://www.acmicpc.net/problem/1343" target="_blank">폴리오미노</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> |
