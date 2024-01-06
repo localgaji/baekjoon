@@ -11,8 +11,8 @@
 [백준 문제집](https://www.acmicpc.net/workbook/view/7274)
 |           순번           |        진행 상황         |        문제 이름         |         난이도          |
 |  :-----:  | :-----: | :-----: | :-----: |
-| 1 |  ![status][ToDo]  | <a href="http://www.acmicpc.net/problem/11660" target="_blank">구간 합 구하기 5</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> |
-| 2 |  ![status][ToDo]  | <a href="http://www.acmicpc.net/problem/21318" target="_blank">피아노 체조</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> |
+| 1 |  ![status][Done]  | <a href="http://www.acmicpc.net/problem/11660" target="_blank">구간 합 구하기 5</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> |
+| 2 |  ![status][Done]  | <a href="http://www.acmicpc.net/problem/21318" target="_blank">피아노 체조</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> |
 | 3 |  ![status][ToDo]  | <a href="http://www.acmicpc.net/problem/2015" target="_blank">수들의 합 4</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> |
 | 4 |  ![status][ToDo]  | <a href="http://www.acmicpc.net/problem/1749" target="_blank">점수따먹기</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> |
 | 5 |  ![status][ToDo]  | <a href="http://www.acmicpc.net/problem/10986" target="_blank">나머지 합</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> |
