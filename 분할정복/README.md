@@ -16,7 +16,7 @@
 | 5 |  ![status][Done]  | <a href="http://www.acmicpc.net/problem/1074" target="_blank">Z</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> |
 | 6 |  ![status][Done]  | <a href="http://www.acmicpc.net/problem/2447" target="_blank">별 찍기 - 10</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |
 | 7 |  ![status][Done]  | <a href="http://www.acmicpc.net/problem/2448" target="_blank">별 찍기 - 11</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> |
-| 8 |  ![status][ToDo]  | <a href="http://www.acmicpc.net/problem/4256" target="_blank">트리</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> |
+| 8 |  ![status][Done]  | <a href="http://www.acmicpc.net/problem/4256" target="_blank">트리</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> |
 
 
 [TODO]: https://img.shields.io/badge/-TODO-DFFD26
