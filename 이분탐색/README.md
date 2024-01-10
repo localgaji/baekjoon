@@ -29,7 +29,7 @@
 |  |  ![status][ToDo]  | <a href="http://www.acmicpc.net/problem/19637" target="_blank">IF문 좀 대신 써줘</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> |
 |  |  ![status][ToDo]  | <a href="http://www.acmicpc.net/problem/11663" target="_blank">선분 위의 점</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> |
 |  |  ![status][ToDo]  | <a href="http://www.acmicpc.net/problem/2805" target="_blank">나무 자르기</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> |
-|  |  ![status][ToDo]  | <a href="http://www.acmicpc.net/problem/1654" target="_blank">랜선 자르기</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> |
+|  |  ![status][Done]  | <a href="http://www.acmicpc.net/problem/1654" target="_blank">랜선 자르기</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> |
 |  |  ![status][ToDo]  | <a href="http://www.acmicpc.net/problem/22871" target="_blank">징검다리 건너기 (large)</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> |
 
 
