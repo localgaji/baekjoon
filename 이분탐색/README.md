@@ -11,7 +11,7 @@
 [백준 문제집](https://www.acmicpc.net/workbook/view/7277)
 |           순번           |        진행 상황         |        문제 이름         |         난이도          |
 |  :-----:  | :-----: | :-----: | :-----: |
-| 1 |  ![status][ToDo]  | <a href="http://www.acmicpc.net/problem/3079" target="_blank">입국심사</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |
+| 1 |  ![status][Done]  | <a href="http://www.acmicpc.net/problem/3079" target="_blank">입국심사</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |
 | 2 |  ![status][ToDo]  | <a href="http://www.acmicpc.net/problem/2470" target="_blank">두 용액</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |
 | 3 |  ![status][ToDo]  | <a href="http://www.acmicpc.net/problem/20444" target="_blank">색종이와 가위</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |
 | 4 |  ![status][ToDo]  | <a href="http://www.acmicpc.net/problem/2110" target="_blank">공유기 설치</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> |
