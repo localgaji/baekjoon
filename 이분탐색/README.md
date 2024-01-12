@@ -15,7 +15,7 @@
 | 2 |  ![status][Done]  | <a href="http://www.acmicpc.net/problem/2470" target="_blank">두 용액</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |
 | 3 |  ![status][Done]  | <a href="http://www.acmicpc.net/problem/20444" target="_blank">색종이와 가위</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |
 | 4 |  ![status][Done]  | <a href="http://www.acmicpc.net/problem/2110" target="_blank">공유기 설치</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> |
-| 5 |  ![status][ToDo]  | <a href="http://www.acmicpc.net/problem/1477" target="_blank">휴게소 세우기</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> |
+| 5 |  ![status][Done]  | <a href="http://www.acmicpc.net/problem/1477" target="_blank">휴게소 세우기</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> |
 | 6 |  ![status][ToDo]  | <a href="http://www.acmicpc.net/problem/13397" target="_blank">구간 나누기 2</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> |
 | 7 |  ![status][ToDo]  | <a href="http://www.acmicpc.net/problem/2412" target="_blank">암벽 등반</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> |
 | 8 |  ![status][ToDo]  | <a href="http://www.acmicpc.net/problem/1939" target="_blank">중량제한</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> |
