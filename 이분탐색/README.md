@@ -21,7 +21,7 @@
 | 8 |  ![status][Done]  | <a href="http://www.acmicpc.net/problem/1939" target="_blank">중량제한</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> |
 | 9 |  ![status][Done]  | <a href="http://www.acmicpc.net/problem/2473" target="_blank">세 용액</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> |
 | 10 |  ![status][Done]  | <a href="http://www.acmicpc.net/problem/1300" target="_blank">K번째 수</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> |
-| 11 |  ![status][ToDo]  | <a href="http://www.acmicpc.net/problem/7453" target="_blank">합이 0인 네 정수</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> |
+| 11 |  ![status][Done]  | <a href="http://www.acmicpc.net/problem/7453" target="_blank">합이 0인 네 정수</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> |
 |  |  ![status][ToDo]  | <a href="http://www.acmicpc.net/problem/1789" target="_blank">수들의 합</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> |
 |  |  ![status][ToDo]  | <a href="http://www.acmicpc.net/problem/10815" target="_blank">숫자 카드</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> |
 |  |  ![status][ToDo]  | <a href="http://www.acmicpc.net/problem/2417" target="_blank">정수 제곱근</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> |
