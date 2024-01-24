@@ -22,10 +22,10 @@
 | 5 |  ![status][Done]  | <a href="http://www.acmicpc.net/problem/1277" target="_blank">발전소 설치</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> |
 | 6 |  ![status][Done]  | <a href="http://www.acmicpc.net/problem/2224" target="_blank">명제 증명</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> |
 | 7 |  ![status][Done]  | <a href="http://www.acmicpc.net/problem/11404" target="_blank">플로이드</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> |
-| 8 |  ![status][ToDo]  | <a href="http://www.acmicpc.net/problem/1956" target="_blank">운동</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> |
-| 9 |  ![status][ToDo]  | <a href="http://www.acmicpc.net/problem/10159" target="_blank">저울</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> |
+| 8 |  ![status][Done]  | <a href="http://www.acmicpc.net/problem/1956" target="_blank">운동</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> |
+| 9 |  ![status][Done]  | <a href="http://www.acmicpc.net/problem/10159" target="_blank">저울</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> |
 | 10 |  ![status][Done]  | <a href="http://www.acmicpc.net/problem/11657" target="_blank">타임머신</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> |
-| 11 |  ![status][ToDo]  | <a href="http://www.acmicpc.net/problem/22865" target="_blank">가장 먼 곳</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> |
+| 11 |  ![status][Done]  | <a href="http://www.acmicpc.net/problem/22865" target="_blank">가장 먼 곳</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> |
 | 12 |  ![status][ToDo]  | <a href="http://www.acmicpc.net/problem/1719" target="_blank">택배</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> |
 | 13 |  ![status][ToDo]  | <a href="http://www.acmicpc.net/problem/1238" target="_blank">파티</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> |
 | 14 |  ![status][ToDo]  | <a href="http://www.acmicpc.net/problem/1613" target="_blank">역사</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> |
