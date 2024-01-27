@@ -27,7 +27,7 @@
 | 10 |  ![status][Done]  | <a href="http://www.acmicpc.net/problem/11657" target="_blank">타임머신</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> |
 | 11 |  ![status][Done]  | <a href="http://www.acmicpc.net/problem/22865" target="_blank">가장 먼 곳</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> |
 | 12 |  ![status][Done]  | <a href="http://www.acmicpc.net/problem/1719" target="_blank">택배</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> |
-| 13 |  ![status][ToDo]  | <a href="http://www.acmicpc.net/problem/1238" target="_blank">파티</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> |
+| 13 |  ![status][Done]  | <a href="http://www.acmicpc.net/problem/1238" target="_blank">파티</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> |
 | 14 |  ![status][ToDo]  | <a href="http://www.acmicpc.net/problem/1613" target="_blank">역사</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> |
 | 15 |  ![status][ToDo]  | <a href="http://www.acmicpc.net/problem/1865" target="_blank">웜홀</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> |
 | 16 |  ![status][ToDo]  | <a href="http://www.acmicpc.net/problem/1507" target="_blank">궁금한 민호</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> |
