@@ -18,7 +18,7 @@
 |  :-----:  | :-----: | :-----: | :-----: |
 | 1 |  ![status][Done]  | <a href="http://www.acmicpc.net/problem/2470" target="_blank">두 용액</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |
 | 2 |  ![status][Done]  | <a href="http://www.acmicpc.net/problem/22862" target="_blank">가장 긴 짝수 연속한 부분 수열 (large)</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |
-| 3 |  ![status][ToDo]  | <a href="http://www.acmicpc.net/problem/15961" target="_blank">회전 초밥</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> |
+| 3 |  ![status][Done]  | <a href="http://www.acmicpc.net/problem/15961" target="_blank">회전 초밥</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> |
 | 4 |  ![status][ToDo]  | <a href="http://www.acmicpc.net/problem/1806" target="_blank">부분합</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> |
 | 5 |  ![status][ToDo]  | <a href="http://www.acmicpc.net/problem/3151" target="_blank">합이 0</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> |
 | 6 |  ![status][ToDo]  | <a href="http://www.acmicpc.net/problem/22945" target="_blank">팀 빌딩</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> |
