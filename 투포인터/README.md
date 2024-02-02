@@ -22,7 +22,7 @@
 | 4 |  ![status][Done]  | <a href="http://www.acmicpc.net/problem/1806" target="_blank">부분합</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> |
 | 5 |  ![status][Done]  | <a href="http://www.acmicpc.net/problem/3151" target="_blank">합이 0</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> |
 | 6 |  ![status][Done]  | <a href="http://www.acmicpc.net/problem/22945" target="_blank">팀 빌딩</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> |
-| 7 |  ![status][ToDo]  | <a href="http://www.acmicpc.net/problem/20366" target="_blank">같이 눈사람 만들래?</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> |
+| 7 |  ![status][Done]  | <a href="http://www.acmicpc.net/problem/20366" target="_blank">같이 눈사람 만들래?</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> |
 | 8 |  ![status][ToDo]  | <a href="http://www.acmicpc.net/problem/7453" target="_blank">합이 0인 네 정수</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> |
 | 9 |  ![status][ToDo]  | <a href="http://www.acmicpc.net/problem/20442" target="_blank">ㅋㅋ루ㅋㅋ</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> |
 | 10 |  ![status][ToDo]  | <a href="http://www.acmicpc.net/problem/21279" target="_blank">광부 호석</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/16.svg"/> |
