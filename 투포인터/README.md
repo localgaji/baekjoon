@@ -25,7 +25,7 @@
 | 7 |  ![status][Done]  | <a href="http://www.acmicpc.net/problem/20366" target="_blank">같이 눈사람 만들래?</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> |
 | 8 |  ![status][Done]  | <a href="http://www.acmicpc.net/problem/7453" target="_blank">합이 0인 네 정수</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> |
 | 9 |  ![status][Done]  | <a href="http://www.acmicpc.net/problem/20442" target="_blank">ㅋㅋ루ㅋㅋ</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> |
-| 10 |  ![status][ToDo]  | <a href="http://www.acmicpc.net/problem/21279" target="_blank">광부 호석</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/16.svg"/> |
+| 10 |  ![status][Done]  | <a href="http://www.acmicpc.net/problem/21279" target="_blank">광부 호석</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/16.svg"/> |
 |  |  ![status][ToDo]  | <a href="http://www.acmicpc.net/problem/11728" target="_blank">배열 합치기</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> |
 |  |  ![status][ToDo]  | <a href="http://www.acmicpc.net/problem/21921" target="_blank">블로그</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> |
 |  |  ![status][ToDo]  | <a href="http://www.acmicpc.net/problem/20922" target="_blank">겹치는 건 싫어</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> |
