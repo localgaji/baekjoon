@@ -11,8 +11,8 @@
 [백준 문제집](https://www.acmicpc.net/workbook/view/7645)
 |           순번           |        진행 상황         |        문제 이름         |         난이도          |
 |  :-----:  | :-----: | :-----: | :-----: |
-| 1 |  ![status][ToDo]  | <a href="http://www.acmicpc.net/problem/1068" target="_blank">트리</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |
-| 2 |  ![status][ToDo]  | <a href="http://www.acmicpc.net/problem/5639" target="_blank">이진 검색 트리</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |
+| 1 |  ![status][Done]  | <a href="http://www.acmicpc.net/problem/1068" target="_blank">트리</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |
+| 2 |  ![status][Done]  | <a href="http://www.acmicpc.net/problem/5639" target="_blank">이진 검색 트리</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |
 | 3 |  ![status][ToDo]  | <a href="http://www.acmicpc.net/problem/17073" target="_blank">나무 위의 빗물</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |
 | 4 |  ![status][ToDo]  | <a href="http://www.acmicpc.net/problem/20924" target="_blank">트리의 기둥과 가지</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |
 | 5 |  ![status][ToDo]  | <a href="http://www.acmicpc.net/problem/1967" target="_blank">트리의 지름</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> |
