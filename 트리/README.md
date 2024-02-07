@@ -17,7 +17,7 @@
 | 4 |  ![status][Done]  | <a href="http://www.acmicpc.net/problem/20924" target="_blank">트리의 기둥과 가지</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> |
 | 5 |  ![status][Done]  | <a href="http://www.acmicpc.net/problem/1967" target="_blank">트리의 지름</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> |
 | 6 |  ![status][Done]  | <a href="http://www.acmicpc.net/problem/3584" target="_blank">가장 가까운 공통 조상</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> |
-| 7 |  ![status][ToDo]  | <a href="http://www.acmicpc.net/problem/9489" target="_blank">사촌</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> |
+| 7 |  ![status][Done]  | <a href="http://www.acmicpc.net/problem/9489" target="_blank">사촌</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> |
 | 8 |  ![status][ToDo]  | <a href="http://www.acmicpc.net/problem/4256" target="_blank">트리</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> |
 | 9 |  ![status][ToDo]  | <a href="http://www.acmicpc.net/problem/2250" target="_blank">트리의 높이와 너비</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> |
 | 10 |  ![status][ToDo]  | <a href="http://www.acmicpc.net/problem/2263" target="_blank">트리의 순회</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/15.svg"/> |
