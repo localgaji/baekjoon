@@ -20,7 +20,7 @@
 | 7 |  ![status][Done]  | <a href="http://www.acmicpc.net/problem/9489" target="_blank">사촌</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> |
 | 8 |  ![status][Done]  | <a href="http://www.acmicpc.net/problem/4256" target="_blank">트리</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> |
 | 9 |  ![status][Done]  | <a href="http://www.acmicpc.net/problem/2250" target="_blank">트리의 높이와 너비</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> |
-| 10 |  ![status][ToDo]  | <a href="http://www.acmicpc.net/problem/2263" target="_blank">트리의 순회</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/15.svg"/> |
+| 10 |  ![status][Done]  | <a href="http://www.acmicpc.net/problem/2263" target="_blank">트리의 순회</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/15.svg"/> |
 |  |  ![status][ToDo]  | <a href="http://www.acmicpc.net/problem/6416" target="_blank">트리인가?</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/0.svg"/> |
 |  |  ![status][ToDo]  | <a href="http://www.acmicpc.net/problem/11725" target="_blank">트리의 부모 찾기</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> |
 |  |  ![status][ToDo]  | <a href="http://www.acmicpc.net/problem/1991" target="_blank">트리 순회</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> |
