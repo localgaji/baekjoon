@@ -18,7 +18,7 @@
 |           순번           |        진행 상황         |        문제 이름         |         난이도          |
 |  :-----:  | :-----: | :-----: | :-----: |
 | 1 |  ![status][ToDo]  | <a href="http://www.acmicpc.net/problem/15724" target="_blank">주지수</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> |
-| 2 |  ![status][ToDo]  | <a href="http://www.acmicpc.net/problem/9084" target="_blank">동전</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |
+| 2 |  ![status][Done]  | <a href="http://www.acmicpc.net/problem/9084" target="_blank">동전</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |
 | 3 |  ![status][ToDo]  | <a href="http://www.acmicpc.net/problem/12865" target="_blank">평범한 배낭</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |
 | 4 |  ![status][ToDo]  | <a href="http://www.acmicpc.net/problem/9251" target="_blank">LCS</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |
 | 5 |  ![status][ToDo]  | <a href="http://www.acmicpc.net/problem/2225" target="_blank">합분해</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |
