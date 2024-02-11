@@ -23,7 +23,7 @@
 | 4 |  ![status][Done]  | <a href="http://www.acmicpc.net/problem/9251" target="_blank">LCS</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |
 | 5 |  ![status][Done]  | <a href="http://www.acmicpc.net/problem/2225" target="_blank">합분해</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |
 | 6 |  ![status][Done]  | <a href="http://www.acmicpc.net/problem/5557" target="_blank">1학년</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |
-| 7 |  ![status][ToDo]  | <a href="http://www.acmicpc.net/problem/2624" target="_blank">동전 바꿔주기</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |
+| 7 |  ![status][Done]  | <a href="http://www.acmicpc.net/problem/2624" target="_blank">동전 바꿔주기</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |
 | 8 |  ![status][ToDo]  | <a href="http://www.acmicpc.net/problem/14567" target="_blank">선수과목 (Prerequisite)</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |
 | 9 |  ![status][ToDo]  | <a href="http://www.acmicpc.net/problem/17485" target="_blank">진우의 달 여행 (Large)</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |
 | 10 |  ![status][ToDo]  | <a href="http://www.acmicpc.net/problem/18427" target="_blank">함께 블록 쌓기</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> |
