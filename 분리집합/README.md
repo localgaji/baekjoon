@@ -16,7 +16,7 @@
 |  :-----:  | :-----: | :-----: | :-----: |
 | 1 |  ![status][Done]  | <a href="http://www.acmicpc.net/problem/1717" target="_blank">집합의 표현</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |
 | 2 |  ![status][Done]  | <a href="http://www.acmicpc.net/problem/1976" target="_blank">여행 가자</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> |
-| 3 |  ![status][ToDo]  | <a href="http://www.acmicpc.net/problem/16562" target="_blank">친구비</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> |
+| 3 |  ![status][Done]  | <a href="http://www.acmicpc.net/problem/16562" target="_blank">친구비</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> |
 | 4 |  ![status][ToDo]  | <a href="http://www.acmicpc.net/problem/18116" target="_blank">로봇 조립</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> |
 | 5 |  ![status][ToDo]  | <a href="http://www.acmicpc.net/problem/4195" target="_blank">친구 네트워크</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> |
 | 6 |  ![status][ToDo]  | <a href="http://www.acmicpc.net/problem/10775" target="_blank">공항</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> |
