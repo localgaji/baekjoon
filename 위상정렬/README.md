@@ -17,7 +17,7 @@
 | 2 |  ![status][Done]  | <a href="http://www.acmicpc.net/problem/1005" target="_blank">ACM Craft</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> |
 | 3 |  ![status][Done]  | <a href="http://www.acmicpc.net/problem/2252" target="_blank">줄 세우기</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> |
 | 4 |  ![status][Done]  | <a href="http://www.acmicpc.net/problem/2623" target="_blank">음악프로그램</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> |
-| 5 |  ![status][ToDo]  | <a href="http://www.acmicpc.net/problem/1766" target="_blank">문제집</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> |
+| 5 |  ![status][Done]  | <a href="http://www.acmicpc.net/problem/1766" target="_blank">문제집</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> |
 
 
 [TODO]: https://img.shields.io/badge/-TODO-DFFD26
