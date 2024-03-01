@@ -6,7 +6,7 @@
 |          순번     |       진행 상황         |        문제 이름         |         난이도          |
 | :-----: | :-----: | :-----: | :-----: |
 | 00 |  ![status][Done] | <a href="http://www.acmicpc.net/problem/1197" target="_blank">최소 스패닝 트리</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> |
-| 01 |  ![status][ToDo] | <a href="http://www.acmicpc.net/problem/1922" target="_blank">네트워크 연결</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> |
+| 01 |  ![status][Done] | <a href="http://www.acmicpc.net/problem/1922" target="_blank">네트워크 연결</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> |
 | 02 |  ![status][ToDo] | <a href="http://www.acmicpc.net/problem/1647" target="_blank">도시 분할 계획</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> |
 | 03 |  ![status][ToDo] | <a href="http://www.acmicpc.net/problem/16398" target="_blank">행성 연결</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> |
 | 04 |  ![status][ToDo] | <a href="http://www.acmicpc.net/problem/21924" target="_blank">도시 건설</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> |
