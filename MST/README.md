@@ -9,7 +9,7 @@
 | 01 |  ![status][Done] | <a href="http://www.acmicpc.net/problem/1922" target="_blank">네트워크 연결</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> |
 | 02 |  ![status][Done] | <a href="http://www.acmicpc.net/problem/1647" target="_blank">도시 분할 계획</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> |
 | 03 |  ![status][Done] | <a href="http://www.acmicpc.net/problem/16398" target="_blank">행성 연결</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> |
-| 04 |  ![status][ToDo] | <a href="http://www.acmicpc.net/problem/21924" target="_blank">도시 건설</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> |
+| 04 |  ![status][Done] | <a href="http://www.acmicpc.net/problem/21924" target="_blank">도시 건설</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> |
 | 05 |  ![status][ToDo] | <a href="http://www.acmicpc.net/problem/1774" target="_blank">우주신과의 교감</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> |
 | 06 |  ![status][ToDo] | <a href="http://www.acmicpc.net/problem/14621" target="_blank">나만 안되는 연애</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> |
 | 07 |  ![status][ToDo] | <a href="http://www.acmicpc.net/problem/1368" target="_blank">물대기</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> |
