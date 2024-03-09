@@ -29,7 +29,7 @@
 | 10 |  ![status][Done]  | <a href="http://www.acmicpc.net/problem/18427" target="_blank">함께 블록 쌓기</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> |
 | 11 |  ![status][Done]  | <a href="http://www.acmicpc.net/problem/1915" target="_blank">가장 큰 정사각형</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> |
 | 12 |  ![status][Done]  | <a href="http://www.acmicpc.net/problem/2631" target="_blank">줄세우기</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> |
-| 13 |  ![status][ToDo]  | <a href="http://www.acmicpc.net/problem/2758" target="_blank">로또</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> |
+| 13 |  ![status][Done]  | <a href="http://www.acmicpc.net/problem/2758" target="_blank">로또</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> |
 | 14 |  ![status][ToDo]  | <a href="http://www.acmicpc.net/problem/2073" target="_blank">수도배관공사</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> |
 | 15 |  ![status][ToDo]  | <a href="http://www.acmicpc.net/problem/2056" target="_blank">작업</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> |
 | 16 |  ![status][ToDo]  | <a href="http://www.acmicpc.net/problem/1695" target="_blank">팰린드롬 만들기</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> |
