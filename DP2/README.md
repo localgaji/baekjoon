@@ -35,8 +35,8 @@
 | 16 |  ![status][Done]  | <a href="http://www.acmicpc.net/problem/1695" target="_blank">팰린드롬 만들기</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> |
 | 17 |  ![status][Done]  | <a href="http://www.acmicpc.net/problem/10942" target="_blank">팰린드롬?</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> |
 | 18 |  ![status][Done]  | <a href="http://www.acmicpc.net/problem/21923" target="_blank">곡예 비행</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> |
-| 19 |  ![status][ToDo]  | <a href="http://www.acmicpc.net/problem/21941" target="_blank">문자열 제거</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> |
-| 20 |  ![status][ToDo]  | <a href="http://www.acmicpc.net/problem/2629" target="_blank">양팔저울</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> |
+| 19 |  ![status][Done]  | <a href="http://www.acmicpc.net/problem/21941" target="_blank">문자열 제거</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> |
+| 20 |  ![status][Done]  | <a href="http://www.acmicpc.net/problem/2629" target="_blank">양팔저울</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> |
 | 21 |  ![status][ToDo]  | <a href="http://www.acmicpc.net/problem/2228" target="_blank">구간 나누기</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> |
 | 22 |  ![status][ToDo]  | <a href="http://www.acmicpc.net/problem/1520" target="_blank">내리막 길</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> |
 | 23 |  ![status][ToDo]  | <a href="http://www.acmicpc.net/problem/20542" target="_blank">받아쓰기</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> |
