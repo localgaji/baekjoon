@@ -38,8 +38,8 @@
 | 19 |  ![status][Done]  | <a href="http://www.acmicpc.net/problem/21941" target="_blank">문자열 제거</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> |
 | 20 |  ![status][Done]  | <a href="http://www.acmicpc.net/problem/2629" target="_blank">양팔저울</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> |
 | 21 |  ![status][Done]  | <a href="http://www.acmicpc.net/problem/2228" target="_blank">구간 나누기</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> |
-| 22 |  ![status][ToDo]  | <a href="http://www.acmicpc.net/problem/1520" target="_blank">내리막 길</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> |
-| 23 |  ![status][ToDo]  | <a href="http://www.acmicpc.net/problem/20542" target="_blank">받아쓰기</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> |
+| 22 |  ![status][Done]  | <a href="http://www.acmicpc.net/problem/1520" target="_blank">내리막 길</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> |
+| 23 |  ![status][Done]  | <a href="http://www.acmicpc.net/problem/20542" target="_blank">받아쓰기</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> |
 | 24 |  ![status][ToDo]  | <a href="http://www.acmicpc.net/problem/1005" target="_blank">ACM Craft</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> |
 | 25 |  ![status][ToDo]  | <a href="http://www.acmicpc.net/problem/11049" target="_blank">행렬 곱셈 순서</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> |
 | 26 |  ![status][ToDo]  | <a href="http://www.acmicpc.net/problem/1823" target="_blank">수확</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> |
