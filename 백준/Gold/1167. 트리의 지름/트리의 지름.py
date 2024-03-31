@@ -14,8 +14,6 @@ def search_length(root):
     visited = [0] * (V + 1)
     visited[root] = 1
 
-    farthest = 0
-
     def dfs(now, total):
         max_sub = 0
         deepest_leaf = now
@@ -24,17 +22,17 @@ def search_length(root):
                 continue
             visited[near] = 1
 
-            sub_len, leaf = dfs(near, now_near)
+            leaf, sub_len = dfs(near, now_near)
             if sub_len > max_sub:
                 max_sub = sub_len
                 deepest_leaf = leaf
 
-        return total + max_sub, deepest_leaf
+        return deepest_leaf, total + max_sub
 
     return dfs(root, 0)
 
 
-root_a, a = search_length(1)
-a_b, b = search_length(a)
+a, root_a = search_length(1)
+b, a_b = search_length(a)
 
 print(a_b)
