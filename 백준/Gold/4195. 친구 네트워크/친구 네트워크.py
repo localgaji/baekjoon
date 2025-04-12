@@ -9,34 +9,32 @@ T = int(input())
 def find_root(x):
     if x not in roots:
         roots[x] = x
-        children[x] = 1
-    if roots[x] != x:
+        counts[x] = 1
+    if x != roots[x]:
         roots[x] = find_root(roots[x])
     return roots[x]
 
 
 def union(x, y):
-    root_x, root_y = find_root(x), find_root(y)
-    big, small = root_x, root_y
-    if small > big:
-        big, small = small, big
+    root_x = find_root(x)
+    root_y = find_root(y)
 
-    if roots[big] == small:
+    if root_x == root_y:
         return
+    if root_x > root_y:
+        root_x, root_y = root_y, root_x
 
-    children[small] += children[big]
-    roots[big] = small
-    find_root(big)
+    roots[root_x] = root_y
+    counts[root_y] += counts[root_x]
 
 
 for _ in range(T):
-    N = int(input())
-    roots = dict()
-    children = dict()
+    F = int(input())
+    roots = {}
+    counts = {}
 
-    for _ in range(N):
+    for _ in range(F):
         a, b = input().split()
         union(a, b)
-        root = find_root(b)
-
-        print(children[root])
+        root_a = find_root(a)
+        print(counts[root_a])
